@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.017" errors="0" skipped="0" tests="1" name="fr.piratekado.aqua.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\lib\glassfishv3\jdk\jre\bin"/>
+    <property name="java.vm.version" value="16.3-b01"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\workspace\aqua2\aqua"/>
+    <property name="java.runtime.version" value="1.6.0_20-b02"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\workspace\aqua2\aqua"/>
+    <property name="java.endorsed.dirs" value="C:\lib\glassfishv3\jdk\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="C:\Users\ErwanD\AppData\Local\Temp\surefirebooter8664083501745596951.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\ErwanD\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\lib\glassfishv3\jdk\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/lib/glassfishv3/jdk/bin/../jre/bin/server;C:/lib/glassfishv3/jdk/bin/../jre/bin;C:/lib/glassfishv3/jdk/bin/../jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\wamp\bin\php\php5.3.0;C:\lib\glassfishv3\jdk\bin;C:\android-sdk-windows\tools;C:\lib\apache-maven-2.2.1\bin;"/>
+    <property name="surefire.test.class.path" value="C:\workspace\aqua2\aqua\target\test-classes;C:\workspace\aqua2\aqua\target\classes;C:\Users\ErwanD\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\ErwanD"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="ErwanD"/>
+    <property name="java.class.path" value="C:\workspace\aqua2\aqua\target\test-classes;C:\workspace\aqua2\aqua\target\classes;C:\Users\ErwanD\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\lib\glassfishv3\jdk\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="fr"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_20"/>
+    <property name="java.ext.dirs" value="C:\lib\glassfishv3\jdk\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\lib\glassfishv3\jdk\jre\lib\resources.jar;C:\lib\glassfishv3\jdk\jre\lib\rt.jar;C:\lib\glassfishv3\jdk\jre\lib\sunrsasign.jar;C:\lib\glassfishv3\jdk\jre\lib\jsse.jar;C:\lib\glassfishv3\jdk\jre\lib\jce.jar;C:\lib\glassfishv3\jdk\jre\lib\charsets.jar;C:\lib\glassfishv3\jdk\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Users\ErwanD\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.003" classname="fr.piratekado.aqua.AppTest" name="testApp"/>
+</testsuite>
