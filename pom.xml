@@ -15,7 +15,7 @@
     <keystore.path></keystore.path>
     <keystore.type>JKS</keystore.type>
     <keystore.alias>erwand</keystore.alias>
-    <keystore.password>69zibmael</keystore.password>
+    <keystore.password></keystore.password>
     <keystore.store.password>${keystore.password}</keystore.store.password>
     <keystore.key.password>${keystore.password}</keystore.key.password>
     
