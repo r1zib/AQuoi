@@ -1,15 +1,15 @@
-package fr.piratekado.aqua;
+package fr.piratekado.aqua.grille;
 
 public class Explosion {
 private int x;
 private int y;
 private int dir;
 
-static final int UP = 1;
-static final int DOWN = 2;
-static final int LEFT = 3;
-static final int RIGTH = 4;
-static final int DEL  = 5;
+public static final int UP = 1;
+public static final int DOWN = 2;
+public static final int LEFT = 3;
+public static final int RIGTH = 4;
+public static final int DEL  = 5;
 
 public Explosion(int x, int y, int dir) {
 	this.x = x;

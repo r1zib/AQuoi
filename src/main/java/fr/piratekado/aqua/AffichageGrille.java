@@ -10,6 +10,11 @@ import java.util.Vector;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+import fr.piratekado.aqua.grille.Bulle;
+import fr.piratekado.aqua.grille.Grille;
+import fr.piratekado.aqua.grille.InterfaceAnimation;
+import fr.piratekado.aqua.image.ApplicationRessource;
+
 public class AffichageGrille extends JPanel implements Runnable, InterfaceAnimation{
 	
 	/**

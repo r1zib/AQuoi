@@ -1,9 +1,21 @@
-package fr.piratekado.aqua;
+package fr.piratekado.aqua.image;
 
 import java.awt.Image;
 
 import javax.swing.ImageIcon;
 
+import fr.piratekado.aqua.grille.Explosion;
+
+
+/**
+ * <b>ApplicationRessource de lire les images pour le helper</b>
+ * <p>Le theme : <br/>
+ * Pour faire plaisir à ma fille de 6ans, j'ai tenté de faire un thème fille.
+ * 
+ * </p>
+ * 
+ * @version 1.1
+ */
 public class ApplicationRessource {
 	 private static Image imgBg;
 	 private static Image[] imgExplosion;
@@ -12,7 +24,6 @@ public class ApplicationRessource {
 	 private static Image[] bullesBig;
 	 private static Image   bulleExplo;
 	 private static ImageIcon photo;
-	 private static Image coin;
 	 private static Image bonus;
 	 private static String themes [] = {"/bulle/","/girl/"};
 	 private static String theme   = themes [0];
@@ -142,17 +153,6 @@ public class ApplicationRessource {
 	            }
 	        }
 	        return photo;
-        }
-	    public static Image getCoin(Object canvas) {
-	        if(coin == null) {
-	            try {
-	            	coin = new ImageIcon(canvas.getClass()
-	                        .getResource("/img1.png")).getImage();
-	            } catch (Exception ex) {
-	                return null;
-	            }
-	        }
-	        return coin;
         }
 	    public static Image getBonus(Object canvas) {
 	        if(bonus == null) {

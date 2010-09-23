@@ -1,6 +1,9 @@
-package fr.piratekado.aqua;
+package fr.piratekado.aqua.grille;
 
 import java.awt.Graphics;
+
+import fr.piratekado.aqua.Tableau;
+import fr.piratekado.aqua.image.ApplicationRessource;
 
 public class Bulle {
 

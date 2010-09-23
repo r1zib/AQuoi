@@ -2,6 +2,8 @@ package fr.piratekado.aqua;
 
 import java.util.Iterator;
 
+import fr.piratekado.aqua.grille.Grille;
+
 public class Action implements  Cloneable {
 public int x;
 public int y;

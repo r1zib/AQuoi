@@ -2,6 +2,8 @@ package fr.piratekado.aqua;
 
 import java.util.Vector;
 
+import fr.piratekado.aqua.grille.Grille;
+
 public class AlgoRecherche {
 
 	Grille etape0;

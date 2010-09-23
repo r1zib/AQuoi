@@ -9,6 +9,9 @@ import java.awt.event.MouseEvent;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+import fr.piratekado.aqua.image.AnalyseImage;
+import fr.piratekado.aqua.image.ApplicationRessource;
+
 
 public class Tableau extends JPanel implements InterfaceBtn {
 	private static final long serialVersionUID = 1L;

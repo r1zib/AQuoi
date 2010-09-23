@@ -1,7 +1,8 @@
-package fr.piratekado.aqua;
+package fr.piratekado.aqua.grille;
 
 import java.util.Iterator;
 import java.util.Vector;
+
 
 
 public class Grille implements Cloneable {

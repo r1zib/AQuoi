@@ -1,4 +1,4 @@
-package fr.piratekado.aqua;
+package fr.piratekado.aqua.grille;
 
 public interface InterfaceAnimation {
 
