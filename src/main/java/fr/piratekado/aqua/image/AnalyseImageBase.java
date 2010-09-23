@@ -18,7 +18,7 @@ import javax.swing.ImageIcon;
  * <p>
  * Comment retrouve t-on la position jeux kadokado dans l'image ? <br/>
  * l'image <b>imageComp</b> correspond aux coin du jeux flash.  
- * </p>gf
+ * </p>gf22
  * 
  * 
  * @version 1.1
