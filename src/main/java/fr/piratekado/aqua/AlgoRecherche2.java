@@ -1,6 +1,8 @@
 package fr.piratekado.aqua;
 import java.util.Vector;
 
+import fr.piratekado.aqua.grille.Grille;
+
 public class AlgoRecherche2 {
 // Principe : recherche itérative et non pas récursive 
 // Classement de chaque niveau en fonction 
